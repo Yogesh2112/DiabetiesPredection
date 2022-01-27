@@ -8,7 +8,8 @@ By using the statistical data about how certain aspects like BMI, Glucose level,
 
 I have used Azure platform to deploy my project.
 
-Azure Deployment URL :- https://diabeties.azurewebsites.net/
-Project URL :- https://github.com/Yogesh2112/Demo
+Azure Deployment URL :- https://diabetiesprediction.azurewebsites.net
+
+Project URL :- https://github.com/Yogesh2112/DiabetiesPredection
 
 Video URL :- 
