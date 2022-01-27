@@ -13,3 +13,7 @@ Azure Deployment URL :- https://diabetiesprediction.azurewebsites.net
 Project URL :- https://github.com/Yogesh2112/DiabetiesPredection
 
 Video URL :- 
+
+![Azurelink](https://user-images.githubusercontent.com/73050391/151387531-2c62cdd2-a133-44c8-b721-cf63f4182c3b.jpg)
+
+![Github](https://user-images.githubusercontent.com/73050391/151387547-910ee052-41e1-40fb-af3f-44396a72a77b.jpg)
